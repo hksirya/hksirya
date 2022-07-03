@@ -1,5 +1,7 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHnog5iSSRxXQ/profile-displaybackgroundimage-shrink_350_1400/0/1650198717235?e=1662595200&v=beta&t=h-EmB_kctDlNVtYjW_NA-oZu0SgBpZJOe1I-Mzj8mD4)](https://hksirya.io)
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sirya</h1>
-<h3 align="center">A passionate Full stack developer from India.I am pursing my B.Tech from Delhi Technological University</h3>
+<h3 align="center">I am an undergraduate Student majoring in Mechanical Engineering at Delhi Technological University(Formerly known as DCE).Currently I am working on my Skills as a Full Stack Developer .I am a passionate and committed individual with a strong set of IT skills .I am a quick learner , confident , responsible and have immense faith in my capabilities and work.<br/>
+I'd love to hear from you if you wish to work with me on anything that Creates a difference. My email:hksirya@gmail.com</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 
 - 🔭 I’m currently working on **MERN stack Projects**
