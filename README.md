@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHnog5iSSRxXQ/profile-displaybackgroundimage-shrink_350_1400/0/1650198717235?e=1662595200&v=beta&t=h-EmB_kctDlNVtYjW_NA-oZu0SgBpZJOe1I-Mzj8mD4)](https://hksirya.io)
+[![MasterHead](https://user-images.githubusercontent.com/104431269/193887292-d79c10c4-7c37-4bd8-ab26-66b74ed44526.png)](https://hksirya.io)
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sirya</h1>
 <h3 align="center">I am an undergraduate Student majoring in Mechanical Engineering at Delhi Technological University(Formerly known as DCE).Currently I am working on my Skills as a Full Stack Developer .I am a passionate and committed individual with a strong set of IT skills .I am a quick learner , confident , responsible and have immense faith in my capabilities and work.<br/>
 I'd love to hear from you if you wish to work with me on anything that Creates a difference. My email:hksirya@gmail.com</h3>
